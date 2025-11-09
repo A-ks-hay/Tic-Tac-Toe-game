@@ -57,7 +57,7 @@ Through this project, I learned:
 
 ## 🌐 Live Demo
 
-🔗 [Play Now](https://yourusername.github.io/tic-tac-toe-game/)
+🔗 [Play Now](file:///C:/Users/kumar/OneDrive/Desktop/Tic%20tac%20toe/tic%20tac%20toe.html)
 
 ---
 
