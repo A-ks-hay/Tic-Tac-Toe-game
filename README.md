@@ -54,13 +54,6 @@ Through this project, I learned:
 
 ---
 
-
-## 🌐 Live Demo
-
-(file:///C:/Users/kumar/OneDrive/Desktop/Tic%20tac%20toe/tic%20tac%20toe.html)
-
----
-
 ## 💬 Author
 
 👤 **Akshay Kumar**  
