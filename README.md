@@ -26,9 +26,9 @@ If all the spaces are filled and no player has won, the game ends in a **draw**.
 
 ## 🛠️ Technologies Used
 
-- **HTML** – for creating the structure  
-- **CSS** – for styling the board and UI  
-- **JavaScript** – for handling game logic and interactivity  
+- **HTML** – for creating the structure
+- **CSS** – for styling the board and UI
+- **JavaScript** – for handling game logic and interactivity
 
 ---
 
